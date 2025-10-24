@@ -1,0 +1,30 @@
+{
+  "name": "Copy of Portofolio Zanova",
+  "description": "A personal portfolio web application for Zanova, a Fullstack Developer and UI/UX Designer, showcasing skills, education, projects, and contact information.",
+  "manifest": {
+    "short_name": "Zanova",
+    "name": "Portofolio Zanova",
+    "icons": [
+      {
+        "src": "https://zanovaexe22.github.io/ARRAHMAN/favicon.ico",
+        "type": "image/x-icon",
+        "sizes": "48x48"
+      },
+      {
+        "src": "https://zanovaexe22.github.io/ARRAHMAN/apple-touch-icon.png",
+        "type": "image/png",
+        "sizes": "192x192"
+      },
+      {
+        "src": "https://zanovaexe22.github.io/ARRAHMAN/apple-touch-icon.png",
+        "type": "image/png",
+        "sizes": "512x512"
+      }
+    ],
+    "start_url": ".",
+    "display": "standalone",
+    "theme_color": "#081b29",
+    "background_color": "#081b29"
+  },
+  "requestFramePermissions": []
+}
